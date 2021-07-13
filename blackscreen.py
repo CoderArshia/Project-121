@@ -2,7 +2,7 @@ import cv2
 import numpy as np  
   
 video = cv2.VideoCapture(0) 
-image = cv2.imread("picnic.jpg") 
+image = cv2.imread("field.jpg") 
   
 while True: 
   
